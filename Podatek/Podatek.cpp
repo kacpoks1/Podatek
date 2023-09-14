@@ -31,7 +31,7 @@ void ponad120k(double& kwota, double& podatek) {
 
         cout << "Podatek wynosi: " << podatek;
     }
-
+     
 }
 
 int main()
